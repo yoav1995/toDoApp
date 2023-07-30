@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">toDoApp</string>
+    <string name="enter_task_here">Enter Task Here</string>
+    <string name="enter_priority_of_task_n_1_less_10_most">Enter Priority Of Task \n (1 less, 10 most)</string>
+    <string name="add_task">Add Task!</string>
+    <string name="task_name">task name</string>
+</resources>
