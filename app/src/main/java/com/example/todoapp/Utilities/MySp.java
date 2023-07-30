@@ -44,6 +44,9 @@ public class MySp {
         editor.putInt(key, value);
         editor.apply();
     }
-
+    public void claerData(){
+        SharedPreferences.Editor editor = sharedPreferences.edit();
+        editor.clear().apply();
+    }
    }
 
